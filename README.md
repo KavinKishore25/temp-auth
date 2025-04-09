@@ -33,7 +33,7 @@ auth-fullstack/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/auth-fullstack.git
+git clone https://github.com/KavinKishore25/auth-fullstack.git
 cd auth-fullstack
 ```
 
